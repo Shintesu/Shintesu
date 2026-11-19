@@ -4,7 +4,7 @@
 Back-End Developer
 ------------------
 
-Junior Back-End Developer | Industrial Engineer | Java • Spring Boot • Python • SQL • Automation • Data • Process Optimization
+Junior Back-End Developer | Java • Spring Boot • REST API • SQL • PostgreSQL • Python | Industrial Engineer
 
 * 🌍  I'm based in Ecuador
 * 🔭 I’m currently working on my projects
